@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/knut-hamsun/growth-of-the-soil/w-w-worster</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-11-19T23:27:36Z</dc:date>
+		<meta property="dcterms:modified">2021-11-19T23:27:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,15 +34,18 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108201</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man builds a farm and a family as society changes around him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Growth of the Soil&lt;/i&gt; was published in 1917 to universal acclaim. A mid- to late-career work for &lt;a href="https://standardebooks.org/ebooks/knut-hamsun"&gt;Hamsun&lt;/a&gt;, it was celebrated for its then-revolutionary use of literary techniques like stream of consciousness, and for its unadorned depiction of pastoral life. Its focus on the quotidian lives of everyday people has led scholars to classify it as a novel of Norwegian New Realism.&lt;/p&gt;
+			&lt;p&gt;Isak, a man so strong and so simple that he echoes a primitive, foundational “everyman,” finds an empty plot of land in turn-of-the-century Norway, and builds a small home. He soon attracts a wife, Inger, whose harelip has led her to be ostracized from town life but who is nonetheless a hard and conscientious worker. Together the two earthy beings build a farm and a family, and watch as society and civilization grows and develops around them.&lt;/p&gt;
+			&lt;p&gt;Isak and Inger’s toils sometimes bring them up against the burgeoning modernity around them, but curiously, the novel is not one driven by a traditional conflict-oriented plot. Instead, the steady progression of life on the farm, with its ups and downs, its trials and joys, makes the &lt;em&gt;people&lt;/em&gt; and their &lt;em&gt;growth&lt;/em&gt; the novel’s main propellant. While the humble, homespun protagonists occasionally come into conflict with the awe-inspiring forces of civilization, more often than not, those forces are portrayed as a positive and symbiotic companion to the agrarian lifestyle.&lt;/p&gt;
+			&lt;p&gt;Hamsun was awarded the Nobel Prize in Literature in 1920 for &lt;i&gt;Growth of the Soil&lt;/i&gt;, one of the rare instances in which the Nobel committee awarded a prize for a specific novel, and not a body of work. It has since come to be regarded as a classic of modernist, and Norwegian, literature.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10984</dc:source>
 		<dc:source>https://archive.org/details/growthofsoil00hams</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">141378</meta>
+		<meta property="se:reading-ease.flesch">80.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Growth_of_the_Soil</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/knut-hamsun_growth-of-the-soil_w-w-worster</meta>
 		<dc:creator id="author">Knut Hamsun</dc:creator>
