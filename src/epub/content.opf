@@ -56,8 +56,8 @@
 		<meta property="file-as" refines="#translator">Worster, W. W.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">William John Alexander Worster</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no98108220</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Wouter Johannes van Troostwijk</dc:contributor>
 		<meta property="file-as" refines="#artist">Van Troostwijk, Wouter Johannes</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wouter_Johannes_van_Troostwijk</meta>
